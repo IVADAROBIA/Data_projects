@@ -33,9 +33,10 @@ The Dashboard includes the following charts to support the analysis:
 10.	**Return Rate by Customer (Filterable by Region):** Identifies customers with exceptionally high return rates.
 11.	**Profit Overview:** Displays the total profit as the company’s key metric, allowing analysis of profit interactions with dynamic region filter.
 
- (Image)
- 
-## How Should the Dashboard Be Used:
+___________________________________________________________________________________________
+ ![image](https://github.com/user-attachments/assets/20348176-812e-42c1-b2d0-2c96188c4da2)
+___________________________________________________________________________________________
+ ## How Should the Dashboard Be Used:
 
 The **Return Rate Dashboard** is designed for dynamic exploration of return trends and actionable insights. Here's how to navigate and use it effectively:
 #### Step 1: Gain an Overview
