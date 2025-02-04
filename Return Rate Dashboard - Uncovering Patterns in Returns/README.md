@@ -60,6 +60,7 @@ o	Look at changes in other regions to gauge whether interventions or conditions 
 
 
 ## Findings and Insights:
+The analysis highlights several root causes:
 1.	**Regional Trends:** The West Region has consistently high return rates, peaking at 44.6% in 2021, indicating possible supply chain or customer behavior issues.
 2.	**Seasonal Patterns:** Peaks in August and December align with high-sales periods, emphasizing the need for better planning during these times.
 3.	**Product-Specific Issues:** High-return sub-categories such as Fasteners and Appliances suggest product quality challenges.
