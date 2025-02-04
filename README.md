@@ -1,6 +1,4 @@
-# Data_projects
-
-Projects I worked on while attending the Business Intelligence Analyst TripleTen Bootcamp.
+# Data_projects_portfolio
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
