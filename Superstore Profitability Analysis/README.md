@@ -101,7 +101,7 @@ This project utilizes **Tableau visualizations** to uncover insights into **prof
 ---
 
 ## **📄 Deliverables:**
-📊 **Tableau Public:** [View Superstore Dashboard](https://public.tableau.com/app/profile/ivan.rodriguez5947/viz/SuperstoreProject_17326496746460/1_1Profit-Loss?publish=yes)  
+📊 **Tableau Public:** [View Superstore Analysis](https://public.tableau.com/app/profile/ivan.rodriguez5947/viz/SuperstoreProject_17326496746460/1_1Profit-Loss?publish=yes)  
 
 ---
 
